@@ -1,6 +1,4 @@
 # Project Overview
-
-## Introduction:
 In this shell script you will see that it displays various information about the system such as date and time, system uptime, current user, last login, disk and memory usage, utilization, and the most expensive processes running on the system.
 
 ## Prerequisites:
