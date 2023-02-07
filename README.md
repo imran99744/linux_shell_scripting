@@ -1,7 +1,7 @@
-# System Information Script
+# Project Overview
 
 ## Introduction:
-The System Information Script is a shell script that displays various information about the system such as date and time, system uptime, current user, last login, disk and memory usage, utilization, and the most expensive processes running on the system.
+In this shell script you will see that it displays various information about the system such as date and time, system uptime, current user, last login, disk and memory usage, utilization, and the most expensive processes running on the system.
 
 ## Prerequisites:
 
@@ -12,8 +12,8 @@ The System Information Script is a shell script that displays various informatio
 
 - Clone or download the repository from GitHub
 - Open a terminal window and navigate to the directory where the script is located
-- Make the script executable using the following command: chmod +x system_info.sh
-- Run the script using the following command: ./system_info.sh
+- Make the script executable using the following command: chmod +x disk_stats.sh
+- Run the script using the following command: ./disk_stats.sh
 
 
 ## Script features:
@@ -28,4 +28,4 @@ The System Information Script is a shell script that displays various informatio
 - Display the most expensive processes running on the system
 
 ## Conclusion:
-The System Information Script is a useful tool for quickly checking various information about the system. It can help to monitor the system performance and troubleshoot issues.
+This System Information Script is a useful tool for quickly checking various information about the system. It can help to monitor the system performance and troubleshoot issues.
