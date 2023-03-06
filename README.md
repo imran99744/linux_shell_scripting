@@ -26,4 +26,4 @@ In this shell script you will see that it displays various information about the
 - Display the most expensive processes running on the system
 
 ## Conclusion:
-This System Information Script is a useful tool for quickly checking various information about the system. It can help to monitor the system performance and troubleshoot issue.
+This System Information Script is a useful tool for quickly checking various information about the system. It can help to monitor the system performance and troubleshoot issues.
